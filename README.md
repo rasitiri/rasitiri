@@ -1,6 +1,9 @@
 # Hi there 👋
 
-My name is Raşit İri, I'm based in Turkey.
+I'm Raşit İri, I'm based in Turkey. I am a passionate software developer or so I think. I enjoy working with exciting technology and
+skilled people. Also the rotation of languages and technologies year over year is part of
+the job, and I am comfortable knowing that there will be more to come in the years
+ahead.
 
 ## 🧠 Know / Using
 
