@@ -11,4 +11,4 @@ ahead.
 
 ## 📚 Learning
 
-<img src="https://github.com/github/explore/blob/master/topics/go/go.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" height="32" /> 
