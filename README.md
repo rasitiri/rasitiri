@@ -7,7 +7,7 @@ ahead.
 
 ## 🧠 Know / Using
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="32" /><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="32" />
 
 ## 📚 Learning
 
